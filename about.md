@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-* About me
+* About author
 
   Name:tongjie.yang
 
@@ -16,7 +16,7 @@ permalink: /about/
 
   Twitter:[yangtjie](https://twitter.com/yangtjie)
 
-* About website
+* About theme
 
   This is a simple Jekyll theme website. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
 
