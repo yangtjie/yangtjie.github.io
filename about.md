@@ -8,6 +8,8 @@ permalink: /about/
 
   Name:tongjie.yang
 
+  Wechat/QQ:7102381
+
   Email:yangtjie@163.com
 
   Github:[yangtjie](https://github.com/yangtjie/)
