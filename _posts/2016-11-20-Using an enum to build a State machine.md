@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Using an enum to build a State machine"
+date: 2016-11-20 07:30:26 +0800
+categories: java
+---
 #### Overview
 
 The enum is Java is more powerful than many other languages which can lead to surprising uses.
