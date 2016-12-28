@@ -22,6 +22,7 @@ enum Utility {
     ; // no instances
 }
 ```
+<!--description-->
 
 #### Enum to implement an interface
 
