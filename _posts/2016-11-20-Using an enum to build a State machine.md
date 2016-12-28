@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Using an enum to build a State machine"
 date: 2016-11-20 07:30:26 +0800
 categories: java
